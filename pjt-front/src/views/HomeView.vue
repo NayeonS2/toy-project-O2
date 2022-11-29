@@ -1,7 +1,7 @@
 <template>
   <div id="home-view">
 
-  <div>
+  </div>
 </template>
 
 <script>
