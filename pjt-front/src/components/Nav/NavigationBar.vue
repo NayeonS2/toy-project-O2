@@ -1,7 +1,8 @@
 <template>
-  <div id="home-view">
-
-
+  <div id="nav-bar">
+    <nav>
+      
+    </nav>
   </div>
 </template>
 
@@ -12,6 +13,5 @@ export default {
 </script>
 
 <style>
-
 
 </style>
