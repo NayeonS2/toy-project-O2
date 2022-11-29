@@ -1,10 +1,14 @@
 <template>
-  <div></div>
+  <div id="nav-bar">
+    <nav>
+      
+    </nav>
+  </div>
 </template>
 
 <script>
 export default {
-  name: 'CartView',
+
 }
 </script>
 

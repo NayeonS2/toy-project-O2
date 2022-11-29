@@ -1,7 +1,7 @@
 <template>
-  <div>
+  <div id="home-view">
 
-  </div>
+  <div>
 </template>
 
 <script>
@@ -11,5 +11,6 @@ export default {
 </script>
 
 <style>
+
 
 </style>
