@@ -24,7 +24,7 @@ export default new Vuex.Store({
     signUp(context, payload) {
       axios({
         method: 'post',
-        url: `${API_URL}/api/rest-auth/registration/`,
+        url: `${API_URL}/api/`,
         data: {
           username: payload.username,
           password1: payload.password1,
